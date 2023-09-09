@@ -45,5 +45,6 @@ interface Usuario extends Persona {
 }
 
 const usuario: Usuario = {
-    password: 'number'
+    password: 'number',
+    name: 'juan'
 }
